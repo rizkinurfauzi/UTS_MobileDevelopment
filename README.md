@@ -1,1 +1,5 @@
+NAMA : RIZKI NUR FAUZI
+KELAS : 6C
+NIM : 18090054
+
 # UTS_MobileDevelopment
